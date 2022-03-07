@@ -1,0 +1,31 @@
+.border{
+    border: 2px solid grey;
+}
+
+.main{
+    filter:blur(5px);
+}
+input{
+    border:1px solid orangered;
+    border-radius: 5px;
+}
+.sub{
+    width:300px;
+    height: 150px;
+    border:1px solid orangered;
+    background-color: white;
+    border-radius: 20px;
+    display:inline-block;
+    position: relative;
+    bottom: 350px;
+    
+    
+}
+.add{
+    background-color: orangered;
+    color: white;
+    width:50px;
+    height: 25px;
+    padding: 10px;
+    border-radius: 20px;
+}

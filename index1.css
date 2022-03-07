@@ -1,0 +1,43 @@
+.h1{
+    display: flex;
+    position: relative;
+    top:40px;
+    right:250px;
+}
+.paris{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h2{
+    display: flex;
+    position: relative;
+    bottom:35px;
+    left:250px;
+}
+.back{
+    color:orangered;
+}
+.box11{
+    width:300px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+}
+.h3{
+    width:230px;
+    display: flex;
+    position:relative;
+    left:50px;
+}
+.plusplus{
+    color: orangered;
+    display: flex;
+    position: relative;
+    top:80px;
+    left:275px;
+}
+.pp{
+    color: orangered;
+}
