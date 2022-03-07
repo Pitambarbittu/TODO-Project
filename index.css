@@ -2,12 +2,12 @@
     display: flex;
     position: relative;
     top:30px;
-    left:67vw;
+    left:200px;
 }
 .logo{
     color: rgb(219, 21, 21);
     position: absolute;
-    left: 200px;
+    left: 67vw;
     bottom: 420px;
     height: 150px;
     width: 150;
