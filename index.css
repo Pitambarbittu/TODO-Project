@@ -1,0 +1,75 @@
+.first{
+    display: flex;
+    position: relative;
+    top:30px;
+    left:250px;
+    
+}
+.logo{
+    color: rgb(219, 21, 21);
+    position: absolute;
+    left: 800px;
+    bottom: 370px;
+    height: 150px;
+    width: 150;
+
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin:25px;
+    
+}
+.box1{
+    width:180px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+    text-align: center;
+
+}
+.p1{
+    display: flex;
+    position: relative;
+    bottom:2px;
+    left:30px;
+}
+.box2{
+    width:180px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+    text-align: center;
+    
+}
+.p2{
+    display: flex;
+    position: relative;
+    bottom:2px;
+    left:30px;
+}
+.box3{
+    width:180px;
+    height:250px;
+    border:1px solid orangered;
+    border-radius: 10px;
+    padding:20px;
+    box-shadow: 5px 5px 5px gray;
+    margin:20px;
+    text-align: center;
+}
+.p3{
+    display: flex;
+    position: relative;
+    bottom:2px;
+    left:30px;
+}
+
