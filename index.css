@@ -6,7 +6,7 @@
 }
 .logo{
     color: rgb(219, 21, 21);
-    position: absolute;
+    position: relative;
     left: 67vw;
     bottom: 370px;
     height: 150px;
