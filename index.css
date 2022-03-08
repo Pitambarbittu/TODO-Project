@@ -1,7 +1,7 @@
 .first{
     display: flex;
     position: relative;
-    top:800px;
+    bottom: 200px;
     left:230px;
     
 }
@@ -9,7 +9,7 @@
     color: rgb(219, 21, 21);
     position: absolute;
     left: 67vw;
-    bottom: 260px;
+    bottom: 200px;
     height: 150px;
     width: 150;
 
