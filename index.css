@@ -1,7 +1,7 @@
 .first{
     display: flex;
     position: relative;
-    bottom: 200px;
+    top:30px;
     left:230px;
     
 }
